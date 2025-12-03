@@ -4,3 +4,6 @@ target/
 
 # nix
 result*
+
+**/.git/
+**/.gitignore
